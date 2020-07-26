@@ -1,0 +1,7 @@
+C:\Users\Ahmet Karadağ\shopapp\obj\MCD\Debug\netcoreapp3.1\shopapp.csprojAssemblyReference.cache
+C:\Users\Ahmet Karadağ\shopapp\obj\MCD\Debug\netcoreapp3.1\shopapp.AssemblyInfoInputs.cache
+C:\Users\Ahmet Karadağ\shopapp\obj\MCD\Debug\netcoreapp3.1\shopapp.AssemblyInfo.cs
+C:\Users\Ahmet Karadağ\shopapp\obj\MCD\Debug\netcoreapp3.1\shopapp.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet Karadağ\shopapp\obj\MCD\Debug\netcoreapp3.1\shopapp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ahmet Karadağ\shopapp\obj\MCD\Debug\netcoreapp3.1\shopapp.RazorAssemblyInfo.cache
+C:\Users\Ahmet Karadağ\shopapp\obj\MCD\Debug\netcoreapp3.1\shopapp.RazorAssemblyInfo.cs
